@@ -1,0 +1,29 @@
+_repo: A-book-of-martyrs_71872
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Comer, Cornelia A. P. (Cornelia Atwood Pratt)
+    aliases:
+    - Comer, Cornelia Atwood Pratt
+    - Pratt, Cornelia Atwood
+    gutenberg_agent_id: '36528'
+    url: http://www.gutenberg.org/2009/agents/36528
+description: ''
+gutenberg_issued: '2023-10-13'
+identifiers:
+  gutenberg: '71872'
+language: en
+pgterms:marc904: https://archive.org/details/bookofmartyrs0000come/page/n7/mode/2up
+pgterms:marc905: 20230320183011pratt
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A book of martyrs
+url: http://www.gutenberg.org/ebooks/71872
